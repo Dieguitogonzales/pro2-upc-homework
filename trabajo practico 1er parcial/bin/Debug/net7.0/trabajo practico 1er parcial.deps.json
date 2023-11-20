@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "trabajo practico 1er parcial/1.0.0": {
+        "runtime": {
+          "trabajo practico 1er parcial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trabajo practico 1er parcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

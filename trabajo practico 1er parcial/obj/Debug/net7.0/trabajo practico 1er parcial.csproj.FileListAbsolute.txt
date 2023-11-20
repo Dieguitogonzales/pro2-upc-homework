@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\trabajo practico 1er parcial\bin\Debug\net7.0\trabajo practico 1er parcial.exe
+C:\Users\HP\Documents\trabajo practico 1er parcial\bin\Debug\net7.0\trabajo practico 1er parcial.deps.json
+C:\Users\HP\Documents\trabajo practico 1er parcial\bin\Debug\net7.0\trabajo practico 1er parcial.runtimeconfig.json
+C:\Users\HP\Documents\trabajo practico 1er parcial\bin\Debug\net7.0\trabajo practico 1er parcial.dll
+C:\Users\HP\Documents\trabajo practico 1er parcial\bin\Debug\net7.0\trabajo practico 1er parcial.pdb
+C:\Users\HP\Documents\trabajo practico 1er parcial\obj\Debug\net7.0\trabajo practico 1er parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\trabajo practico 1er parcial\obj\Debug\net7.0\trabajo practico 1er parcial.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\trabajo practico 1er parcial\obj\Debug\net7.0\trabajo practico 1er parcial.AssemblyInfo.cs
+C:\Users\HP\Documents\trabajo practico 1er parcial\obj\Debug\net7.0\trabajo practico 1er parcial.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\trabajo practico 1er parcial\obj\Debug\net7.0\trabajo practico 1er parcial.dll
+C:\Users\HP\Documents\trabajo practico 1er parcial\obj\Debug\net7.0\refint\trabajo practico 1er parcial.dll
+C:\Users\HP\Documents\trabajo practico 1er parcial\obj\Debug\net7.0\trabajo practico 1er parcial.pdb
+C:\Users\HP\Documents\trabajo practico 1er parcial\obj\Debug\net7.0\trabajo practico 1er parcial.genruntimeconfig.cache
+C:\Users\HP\Documents\trabajo practico 1er parcial\obj\Debug\net7.0\ref\trabajo practico 1er parcial.dll
