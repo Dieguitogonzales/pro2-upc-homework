@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/prueba1.sln",
+                "${workspaceFolder}/codigofacilito#9.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/prueba1.sln",
+                "${workspaceFolder}/codigofacilito#9.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/prueba1.sln"
+                "${workspaceFolder}/codigofacilito#9.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
